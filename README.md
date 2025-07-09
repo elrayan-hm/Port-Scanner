@@ -2,6 +2,8 @@
 
 Un **scanner de ports TCP multithreadé** écrit en Python, capable de détecter tous les ports ouverts sur une cible et d’identifier les services standards associés (comme SSH, FTP, HTTP, DNS...).
 
+![Photos](https://github.com/user-attachments/assets/6978cccd-4b3c-4e0b-bb6f-ad2abaa6fb1f)
+
 ---
 
 ## 🚀 Fonctionnalités
@@ -21,8 +23,5 @@ Installez les dépendances (aucune externe requise) :
 
 ```bash
 pip install -r requirements.txt  # (vide par défaut)
-
----
-![image](https://github.com/user-attachments/assets/6978cccd-4b3c-4e0b-bb6f-ad2abaa6fb1f)
 
 
